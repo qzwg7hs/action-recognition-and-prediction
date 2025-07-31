@@ -22,6 +22,3 @@ This project uses a dual-input 3D Convolutional Neural Network (3D CNN) to recog
 
 - Testing accuracy: **77.03%**
 - Confusion matrix and model architecture in `visualizations/`
-
-## 📂 Directory Structure
-
